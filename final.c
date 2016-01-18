@@ -9,6 +9,8 @@
 #include <sys/wait.h>
 #include "lcd.c"
 
+############################
+
 #define GPIO_PATH "/sys/class/gpio"
 #define GPIO_LENGTH 10
 
